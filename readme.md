@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/DoanThu-collab](https://github.com/DoanThu-collab)
 
-- 📫 How to reach me: **mthulb@gmail.com**
+- 📫 How to reach me: **24521725@gm.uit.edu.vn**
 
 - ⚡ Fun fact: **I sleep so much**
   
