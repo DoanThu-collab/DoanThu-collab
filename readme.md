@@ -9,7 +9,6 @@ AI & Computer Vision Enthusiast | CS Student at UIT 🇻🇳
 
 - 🎓 Computer Science student at **University of Information Technology (UIT - VNUHCM)**
 - 🔬 Interested in **Computer Vision, Multimodal AI, Large Vision-Language Models, and Information Retrieval**
-- 📚 Currently researching **Visual Question Answering (VQA)** and working on improving retrieval methods with **NACIR++**
 - 💻 Love building projects in **C++**, **Python**, and exploring AI systems from scratch
 - 🌱 Currently learning more about **Deep Learning**, **LLMs**, and **Research Engineering**
 
