@@ -48,18 +48,6 @@ AI & Computer Vision Enthusiast | CS Student at UIT 🇻🇳
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DoanThu-collab&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DoanThu-collab&theme=tokyonight" />
-</p>
-
----
-
 ## 📫 Connect with Me
 
 - 📧 **24521725@gm.uit.edu.vn**
