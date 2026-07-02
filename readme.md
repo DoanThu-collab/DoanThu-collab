@@ -7,5 +7,5 @@
 
 - 📫 How to reach me: **24521725@gm.uit.edu.vn**
 
-- ⚡ Fun fact: **I sleep so much**
+- ⚡ Fun fact: **I DON'T KNOW**
   
